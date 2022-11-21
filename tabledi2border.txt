@@ -1,0 +1,32 @@
+<html>
+              <head>
+                  <style> 
+                        th, td {
+                              border-style: dotted; 
+                  </style>
+              </head>
+
+                  <body>
+                        <p> Otherwise </p>
+     <table border=1 cellpadding=20>
+              <tr>
+                  <th> School </th>
+                 <th> Domaine </th>
+              </tr>
+             <tr>
+               <td> Sacre coeur </td>
+                <td> Lettre  </td>
+           </tr>
+     <tr>
+               <td> Lionel </td>
+                <td> Elisabeth  </td>
+           </tr>
+              <tr style="height:65px">
+                  <td> gefd</td>
+                  <td> gouffre </td>
+               </tr>
+  </table>
+          
+             </body>
+
+</html>
